@@ -1,6 +1,6 @@
 # Portofolio
-<image src="assets/PicsArt_05-08-04.02.28.png" {width=40px height=400px}>
+![image] (src="assets/PicsArt_05-08-04.02.28.png") {width=40px height=400px}
 
-#Evaditus Kresna Yuvisan
+#Evaditus Kresna Yuvisan n/
 Akuntansi dan Sistem Informasi
 19.G4.0017
