@@ -1,6 +1,4 @@
-# Web CV Pribadi
-Pemula | Second Project HTML & CSS | Curriculum Vitae
-
+# Portofolio
 <img src="assets/Capture.PNG">
 
 Evaditus Kresna Yuvisan
