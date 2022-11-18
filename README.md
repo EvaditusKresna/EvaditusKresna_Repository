@@ -1,5 +1,5 @@
 # Portofolio
-<img src="assets/PicsArt_05-08-04.02.28.png">
+<logo src="assets/PicsArt_05-08-04.02.28.png">
 
 #Evaditus Kresna Yuvisan
 Akuntansi dan Sistem Informasi
